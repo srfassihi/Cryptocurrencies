@@ -46,8 +46,3 @@ Based on the elbow curve the optimal number of clusters is '4' (the point at whi
 ![Scatter Plot](https://github.com/srfassihi/Cryptocurrencies/blob/7eaaba9a1cd2db4a8522ceaf76ef64634cb1c52f/images/Total%20Coin%20Supply%20vs%20Mined.png)
 
 *For tabular and printed results please refer to the [JuPyTer Notebook file (.pynb)](https://github.com/srfassihi/Cryptocurrencies/blob/main/crypto_clustering.ipynb#L20) attached to this repo.*
-
-## Resources
-- PCA
-- K
-
